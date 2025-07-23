@@ -25,9 +25,7 @@ const BeforeAfter = () => {
           <h3 className="text-sm font-semibold text-primary uppercase tracking-wider">
             Before And After
           </h3>
-          <h2 className="text-4xl lg:text-5xl font-bold text-foreground">
-            Why Settle for Less? Upgrade to August
-          </h2>
+          <h2 className="text-3xl font-bold text-primary">कम में क्यों समझौता करें? Humantics Ai में अपग्रेड करें</h2>
           <p className="text-xl text-muted-foreground">
             Have a medical companion right in your pocket.
           </p>
@@ -58,8 +56,8 @@ const BeforeAfter = () => {
           {/* New Way */}
           <div className="space-y-8 animate-fade-in" style={{ animationDelay: '0.3s' }}>
             <div className="text-center space-y-4">
-              <h3 className="text-2xl font-bold text-primary">August Way</h3>
-              <p className="text-lg text-muted-foreground">Your Health, Your Control</p>
+              <h3 className="text-2xl font-bold text-primary">Humantics Ai तरीका</h3>
+              <p className="text-lg text-muted-foreground">आपका स्वास्थ्य, आपका नियंत्रण</p>
             </div>
             
             <div className="space-y-4">

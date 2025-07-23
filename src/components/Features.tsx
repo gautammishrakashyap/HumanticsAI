@@ -86,10 +86,10 @@ const Features = () => {
             The Features
           </h3>
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground">
-            What August can Do For You
+            Humantics Ai आपके लिए क्या कर सकता है?
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            From reports to treatment options, August simplifies your health, so you can stay at ease.
+            रिपोर्ट से लेकर उपचार विकल्पों तक, Humantics Ai आपके स्वास्थ्य को सरल बनाता है, ताकि आप निश्चिंत रह सकें।
           </p>
         </div>
 

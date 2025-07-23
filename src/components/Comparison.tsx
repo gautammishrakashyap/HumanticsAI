@@ -73,10 +73,10 @@ const Comparison = () => {
             Comparison
           </h3>
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground">
-            What You Actually Care About: August vs. Others
+            आप वास्तव में किसकी परवाह करते हैं: Humantics Ai बनाम अन्य
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            How does August compare to Google and Telehealth? Here's why August is the future of personal healthcare.
+            Humantics Ai की तुलना Google और Telehealth से कैसे होती है? जानिए क्यों Humantics Ai व्यक्तिगत स्वास्थ्य देखभाल का भविष्य है।
           </p>
         </div>
 
@@ -88,7 +88,7 @@ const Comparison = () => {
             <div className="text-center">
               <div className="flex items-center justify-center gap-2 font-semibold text-primary">
                 <Star className="w-5 h-5 fill-current" />
-                August AI
+                Humantics Ai
               </div>
             </div>
             <div className="text-center font-semibold text-muted-foreground">Google</div>

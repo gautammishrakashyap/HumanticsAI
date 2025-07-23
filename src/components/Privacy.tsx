@@ -15,7 +15,7 @@ const Privacy = () => {
               </h2>
               
               <p className="text-lg text-muted-foreground leading-relaxed">
-                August AI never requires personally identifiable information to assist you. Your health data remains secure, protected by industry-leading encryption, and fully compliant with HIPAA and GDPR standards.
+                Humantics Ai कभी भी आपकी व्यक्तिगत जानकारी नहीं मांगता। आपका स्वास्थ्य डेटा पूरी तरह से सुरक्षित और गोपनीय रहता है।
               </p>
             </div>
 

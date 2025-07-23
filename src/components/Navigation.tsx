@@ -18,7 +18,7 @@ const Navigation = () => {
           {/* Logo */}
           <div className="flex items-center">
             <div className="bg-background rounded-full px-6 py-2 shadow-soft border border-border/30">
-              <span className="text-xl font-bold text-foreground">august.ai</span>
+              <span className="text-xl font-bold text-foreground">Humantics Ai</span>
             </div>
           </div>
 
@@ -38,7 +38,7 @@ const Navigation = () => {
           {/* CTA Button */}
           <Button variant="nav" size="sm" className="rounded-full">
             <MessageCircle className="w-4 h-4" />
-            Talk to August
+            बात करें Humantics Ai से
           </Button>
         </div>
       </div>

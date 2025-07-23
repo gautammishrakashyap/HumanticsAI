@@ -4,10 +4,10 @@ const Testimonials = () => {
   const testimonials = [
     {
       name: "Joel Samberg",
-      role: "August User",
+      role: "Humantics Ai User",
       avatar: "JS",
       rating: 5,
-      text: "August has completely transformed how I manage my health. The instant prescription analysis saved me from a potential drug interaction that my doctor missed. It's like having a medical expert in my pocket 24/7."
+      text: "Humantics Ai ने मेरी स्वास्थ्य देखभाल को पूरी तरह बदल दिया है। इसकी त्वरित प्रिस्क्रिप्शन विश्लेषण ने मुझे एक संभावित दवा इंटरैक्शन से बचाया जो मेरे डॉक्टर ने मिस कर दिया था। यह मेरे लिए 24/7 एक मेडिकल एक्सपर्ट जैसा है।"
     },
     {
       name: "Sarah Chen",

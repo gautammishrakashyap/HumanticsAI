@@ -57,7 +57,7 @@ const Hero = () => {
             <div className="flex flex-col sm:flex-row gap-4">
               <Button variant="hero" size="xl" className="group">
                 <MessageCircle className="w-5 h-5 group-hover:scale-110 transition-transform" />
-                Talk to August
+                Humantics Ai से बात करें
               </Button>
               
               <div className="flex gap-3">
@@ -88,7 +88,7 @@ const Hero = () => {
             <div className="relative rounded-2xl overflow-hidden shadow-large">
               <img
                 src={heroImage}
-                alt="Woman using August AI health companion"
+                alt="Humantics Ai स्वास्थ्य साथी का उपयोग करती महिला"
                 className="w-full h-auto object-cover"
               />
               

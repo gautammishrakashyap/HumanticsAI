@@ -19,7 +19,7 @@ const UseCases = () => {
   const useCases = {
     "Heart Health": [
       {
-        query: "Hey August, I've been feeling this weird chest pain now and then. Should I be really worried about it?",
+        query: "नमस्ते Humantics Ai, मुझे कभी-कभी सीने में अजीब सा दर्द होता है। क्या मुझे चिंता करनी चाहिए?",
         category: "Symptom Evaluation",
         description: "Distinguishing between chest pain types, palpitations, and shortness of breath."
       },
@@ -137,7 +137,7 @@ const UseCases = () => {
                     <span className="text-xs font-bold text-primary">AU</span>
                   </div>
                   <div className="space-y-2 flex-1">
-                    <div className="text-sm font-medium text-foreground">August AI</div>
+                    <div className="text-sm font-medium text-foreground">Humantics Ai</div>
                     <div className="text-sm text-muted-foreground leading-relaxed">
                       {useCase.query}
                     </div>
@@ -161,7 +161,7 @@ const UseCases = () => {
         <div className="text-center">
           <Button variant="hero" size="xl">
             <MessageCircle className="w-5 h-5" />
-            Talk to August
+            Humantics Ai से बात करें
           </Button>
         </div>
       </div>

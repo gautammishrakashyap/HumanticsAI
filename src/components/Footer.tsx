@@ -45,13 +45,13 @@ const Footer = () => {
                   Ready to take control of your health?
                 </h2>
                 <p className="text-lg text-background/80">
-                  Join 2.5M+ users who trust August for their health journey. Start your conversation today.
+                  2.5M+ उपयोगकर्ता Humantics Ai पर भरोसा करते हैं। आज ही अपनी बातचीत शुरू करें।
                 </p>
               </div>
               
               <Button variant="hero" size="xl" className="bg-background text-foreground hover:bg-background/90">
                 <MessageCircle className="w-5 h-5" />
-                Talk to August Now
+                अभी बात करें Humantics Ai से
               </Button>
             </div>
 
@@ -62,7 +62,7 @@ const Footer = () => {
                 <div className="space-y-4">
                   <div className="flex items-center gap-3">
                     <Mail className="w-5 h-5 text-primary" />
-                    <span className="text-background/80">hello@meetaugust.ai</span>
+                    <span className="text-background/80">info@humantics.in</span>
                   </div>
                   <div className="flex items-center gap-3">
                     <Phone className="w-5 h-5 text-primary" />
@@ -70,7 +70,7 @@ const Footer = () => {
                   </div>
                   <div className="flex items-center gap-3">
                     <MapPin className="w-5 h-5 text-primary" />
-                    <span className="text-background/80">San Francisco, CA</span>
+                    <span className="text-background/80">Patna, Bihar</span>
                   </div>
                 </div>
               </div>
@@ -81,7 +81,7 @@ const Footer = () => {
           <div className="grid md:grid-cols-4 gap-8 py-8 border-t border-background/20">
             {/* Logo/Brand */}
             <div className="space-y-4">
-              <div className="text-2xl font-bold">august.ai</div>
+              <div className="text-2xl font-bold">Humantics Ai</div>
               <p className="text-sm text-background/70">
                 Your personal AI health companion, available 24/7 for instant medical guidance.
               </p>
@@ -112,7 +112,7 @@ const Footer = () => {
         <div className="py-6 border-t border-background/20">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-sm text-background/70">
-              © 2024 August AI. All rights reserved.
+              © 2024 Humantics Ai. All rights reserved.
             </div>
             <div className="flex gap-6">
               <a href="#privacy" className="text-sm text-background/70 hover:text-primary transition-colors">

@@ -32,10 +32,10 @@ const Benchmarks = () => {
             The Benchmarks
           </h3>
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground">
-            Why choose August AI?
+            क्यों चुनें Humantics Ai?
           </h2>
           <p className="text-xl text-muted-foreground max-w-4xl mx-auto">
-            August AI outperforms industry benchmarks, delivering expert-level accuracy, real world diagnostic precision, and unmatched triaging across medical specialities.
+            Humantics Ai उद्योग मानकों से बेहतर प्रदर्शन करता है, विशेषज्ञ स्तर की सटीकता और वास्तविक दुनिया की डायग्नोस्टिक क्षमता प्रदान करता है।
           </p>
         </div>
 
