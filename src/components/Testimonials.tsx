@@ -14,21 +14,21 @@ const Testimonials = () => {
       role: "Working Mother",
       avatar: "SC", 
       rating: 5,
-      text: "As a busy mom, I don't have time to wait for doctor appointments for every little health concern. August gives me peace of mind and helps me decide when something actually needs immediate attention."
+      text: "As a busy mom, I don't have time to wait for doctor appointments for every little health concern. Humantics gives me peace of mind and helps me decide when something actually needs immediate attention."
     },
     {
       name: "Dr. Michael Rodriguez",
       role: "Family Physician",
       avatar: "MR",
       rating: 5,
-      text: "I recommend August to my patients. It helps them come to appointments more informed and prepared with better questions. The accuracy is impressive and it complements clinical care beautifully."
+      text: "I recommend Humantics to my patients. It helps them come to appointments more informed and prepared with better questions. The accuracy is impressive and it complements clinical care beautifully."
     },
     {
       name: "Emily Johnson",
       role: "Chronic Condition Patient",
       avatar: "EJ",
       rating: 5,
-      text: "Managing diabetes used to be overwhelming with all the numbers and adjustments. August explains everything in simple terms and helps me track patterns I never noticed before."
+      text: "Managing diabetes used to be overwhelming with all the numbers and adjustments. Humantics explains everything in simple terms and helps me track patterns I never noticed before."
     }
   ];
 
@@ -44,7 +44,7 @@ const Testimonials = () => {
             What Users are Saying
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Answers to common questions about how August works, its accuracy, and your data privacy.
+            Answers to common questions about how Humantics works, its accuracy, and your data privacy.
           </p>
         </div>
 

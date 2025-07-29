@@ -4,61 +4,61 @@ const Comparison = () => {
   const comparisonData = [
     {
       aspect: "How does it make you feel?",
-      august: "Like a close friend who gets you. Warm, real, human.",
+      humantics: "Like a close friend who gets you. Warm, real, human.",
       google: "Anxious, alone, stressed. You figure it out!",
       telehealth: "Like explaining yourself to a stranger every time."
     },
     {
       aspect: "Quality of Care",
-      august: "Feels like a friend & a doctor. Actually helpful. Real support when it matters!",
+      humantics: "Feels like a friend & a doctor. Actually helpful. Real support when it matters!",
       google: "Fear-based info dump.",
       telehealth: "Cold, clinical & generic. Like talking to someone who doesn't know you."
     },
     {
       aspect: "Lab Report & Prescription Analysis",
-      august: "Translates medical jargon into clear, helpful actions.",
+      humantics: "Translates medical jargon into clear, helpful actions.",
       google: "You read, you guess, you stress.",
       telehealth: "Basic info. Hard to know what to do next."
     },
     {
       aspect: "Personalized Care & Guidance",
-      august: "Keeps you ahead with personalized nudges & habits.",
+      humantics: "Keeps you ahead with personalized nudges & habits.",
       google: "One-size-fits-none, basic tips. No follow-up.",
       telehealth: "Reactive. Only acts when there's a problem."
     },
     {
       aspect: "24/7 Active Care",
-      august: "Always available. Human-like support on WhatsApp - even at 2 AM.",
+      humantics: "Always available. Human-like support on WhatsApp - even at 2 AM.",
       google: "Static articles. No real help when you're panicking late at night.",
       telehealth: "Wait till morning. Support ends with business hours"
     },
     {
       aspect: "Speed (Can I get faster answers?)",
-      august: "Answers when you need them - instantly",
+      humantics: "Answers when you need them - instantly",
       google: "Tons of results, no real-time help.",
       telehealth: "Delayed, general advice. Takes time to respond - often hours or days."
     },
     {
       aspect: "All in one support",
-      august: "All your care in one place - 40+ specialties, integrated.",
+      humantics: "All your care in one place - 40+ specialties, integrated.",
       google: "Info spread across pages & articles. You piece it all together.",
       telehealth: "One appointment at a time."
     },
     {
       aspect: "Follow-Ups & Continuous Care",
-      august: "Automatically does regular check-ins & nudges you forward.",
+      humantics: "Automatically does regular check-ins & nudges you forward.",
       google: "No reminders. No continuity. You're on your own!",
       telehealth: "You need to remember to book again."
     },
     {
       aspect: "Cost",
-      august: "FREE - multiple services & care, no hidden costs.",
+      humantics: "FREE - multiple services & care, no hidden costs.",
       google: "Free to search, but not built for real care, support or value",
       telehealth: "Charges per visit, extra fees adds up"
     },
     {
       aspect: "Accessibility & Multilingual Support",
-      august: "Speaks your language with context.",
+      humantics: "Speaks your language with context.",
       google: "Generic & often incorrect translation, not personal",
       telehealth: "Limited language support."
     }
@@ -107,7 +107,7 @@ const Comparison = () => {
                 <div className="text-sm text-foreground bg-primary/10 rounded-lg p-3">
                   <div className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                    <span>{row.august}</span>
+                    <span>{row.humantics}</span>
                   </div>
                 </div>
                 <div className="text-sm text-muted-foreground bg-muted/30 rounded-lg p-3">

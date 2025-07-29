@@ -29,7 +29,7 @@ const UseCases = () => {
         description: "Managing side effects and understanding the role of beta-blockers, ACE inhibitors, etc."
       },
       {
-        query: "Hey August, I'm a bit confused. My HDL is 55, my LDL is 140, and my triglycerides are at 180. What should I do?",
+        query: "Hey Humantics, I'm a bit confused. My HDL is 55, my LDL is 140, and my triglycerides are at 180. What should I do?",
         category: "Diagnostic Clarification",
         description: "Interpreting blood pressure readings, cholesterol levels, and ECG results."
       },
@@ -99,10 +99,10 @@ const UseCases = () => {
             Use cases
           </h3>
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground">
-            See how others use August
+            See how others use Humantics
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Real people, real questions—see how August supports 2M users on their health journey.
+            Real people, real questions—see how Humantics supports 2M users on their health journey.
           </p>
         </div>
 

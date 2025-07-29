@@ -16,64 +16,64 @@ const Features = () => {
       number: "01",
       icon: FileText,
       title: "Medical History Review",
-      subtitle: "Your second brain for health—August recalls the details you miss.",
-      description: "August quickly scans your health records, highlighting key details—like past conditions, treatments, or allergies—so you get personalised, accurate guidance instantly."
+      subtitle: "Your second brain for health—Humantics recalls the details you miss.",
+      description: "Humantics quickly scans your health records, highlighting key details—like past conditions, treatments, or allergies—so you get personalised, accurate guidance instantly."
     },
     {
       number: "02", 
       icon: Search,
       title: "Symptom Checking & Differential Diagnosis",
       subtitle: "Understand Symptoms. Explore Causes. Know What to Ask Your Doctor.",
-      description: "Not sure what's causing that headache, rash, or stomach pain? August gives you clarity before you panic—helps you decide if it's worth seeing a doctor & what to ask if you do."
+      description: "Not sure what's causing that headache, rash, or stomach pain? Humantics gives you clarity before you panic—helps you decide if it's worth seeing a doctor & what to ask if you do."
     },
     {
       number: "03",
       icon: Navigation,
       title: "Care Navigation & Specialist Guidance", 
       subtitle: "Know exactly where, when and whom to seek care.",
-      description: "August assesses your symptoms, determines urgency & quickly connects you with the right provider or specialist."
+      description: "Humantics assesses your symptoms, determines urgency & quickly connects you with the right provider or specialist."
     },
     {
       number: "04",
       icon: FlaskConical,
       title: "Lab Report & Prescription Analysis",
       subtitle: "Tired of medical jargon? Get clarity when you're confused.",
-      description: "August translates complex medical prescriptions, understands scans, highlights information, flags potential medication interactions, and suggests safer alternatives."
+      description: "Humantics translates complex medical prescriptions, understands scans, highlights information, flags potential medication interactions, and suggests safer alternatives."
     },
     {
       number: "05",
       icon: UserCheck,
       title: "Second Opinion",
       subtitle: "Eliminate doubt; verify your treatment options before you commit.",
-      description: "Big, scary, or unclear health decisions? Whether it's a complex diagnosis, major treatment, or avoiding unnecessary procedures, August helps you explore evidence-based options so you have clarity, confidence & peace of mind."
+      description: "Big, scary, or unclear health decisions? Whether it's a complex diagnosis, major treatment, or avoiding unnecessary procedures, Humantics helps you explore evidence-based options so you have clarity, confidence & peace of mind."
     },
     {
       number: "06",
       icon: Heart,
       title: "Wellness Planning",
       subtitle: "Your health plan, for the whole you—not just what's hurting.",
-      description: "From diet & sleep to exercise & stress—August creates a hyper-personalised wellness plan based on your health history, habits, goals & needs. A plan for your healthy life."
+      description: "From diet & sleep to exercise & stress—Humantics creates a hyper-personalised wellness plan based on your health history, habits, goals & needs. A plan for your healthy life."
     },
     {
       number: "07",
       icon: ShoppingBag,
       title: "Product Recommendations",
       subtitle: "Find exactly what your body needs.",
-      description: "August allows you to identify, understand, compare & finalise health products tailored to your needs."
+      description: "Humantics allows you to identify, understand, compare & finalise health products tailored to your needs."
     },
     {
       number: "08",
       icon: Calendar,
       title: "Medication Adherence",
-      subtitle: "Never miss your meds again—August remembers, even when you don't.",
-      description: "From timing, dosage to interactions and refills, August helps you stick to your treatment plan without missing a beat—so your health stays steady, even when life gets busy."
+      subtitle: "Never miss your meds again—Humantics remembers, even when you don't.",
+description: "From timing, dosage to interactions and refills, Humantics helps you stick to your treatment plan without missing a beat—so your health stays steady, even when life gets busy."
     },
     {
       number: "09",
       icon: MessageSquare,
       title: "Your AI Care Team",
       subtitle: "One AI assistant, many roles—doctor, nurse, dietitian and more. All in one chat.",
-      description: "No bouncing between apps, portals, clinics, or calls. Just answers. Just clarity. All in one place. August is your all-in-one health companion—always here to support & assist your health journey."
+      description: "No bouncing between apps, portals, clinics, or calls. Just answers. Just clarity. All in one place. Humantics is your all-in-one health companion—always here to support & assist your health journey."
     }
   ];
 
